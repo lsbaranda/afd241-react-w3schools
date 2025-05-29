@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Elo World....
+          Elo WEBPROG AFD241 World....
         </p>
         <a
           className="App-link"
